@@ -1,0 +1,14 @@
+./cards/node_modules
+./comps/node_modules
+./pages/node_modules
+./passwordGenerator/node_modules
+./pipes/node_modules
+./typing/node_modules
+
+
+./cards/package-lock.json
+./comps/package-lock.json
+./pages/package-lock.json
+./passwordGenerator/package-lock.json
+./pipes/package-lock.json
+./typing/package-lock.json
